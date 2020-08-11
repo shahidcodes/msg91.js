@@ -11,14 +11,14 @@
   </a>
 </p>
 
-> A msg91.com sdk for nodejs with easy promise based api
+> MSG91.com api sdk/wrapper
 
 ### 🏠 [Homepage](https://github.com/shahidcodes/msg91.js/blob/master/README.md)
 
 ## Install
 
 ```sh
-npm install msg91.js
+npm install
 ```
 
 ## Usage
@@ -35,21 +35,20 @@ npm run test
 
 ## Author
 
-👤 **Shahid Kamal <me@shahidkamal.ml> (https://shahidkamal.ml/) **
+👤 **Shahid Kamal**
 
-- Website: http://shahidkamal.ml
-- Twitter: [@shahidcodes](https://twitter.com/shahidcodes)
-- Github: [@shahidcodes](https://github.com/shahidcodes)
-- LinkedIn: [@shahidkamal](https://linkedin.com/in/shahidkamal)
+* Website: http://shahidkamal.ml
+* Twitter: [@shahidcodes](https://twitter.com/shahidcodes)
+* Github: [@shahidcodes](https://github.com/shahidcodes)
+* LinkedIn: [@shahidkamal](https://linkedin.com/in/shahidkamal)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/shahidcodes/msg91.js/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/shahidcodes/msg91.js/issues). 
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
----
-
+***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
