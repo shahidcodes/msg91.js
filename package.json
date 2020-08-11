@@ -1,7 +1,7 @@
 {
   "name": "msg91.js",
-  "version": "1.0.2",
-  "description": "MSG91.com api sdk/wrapper",
+  "version": "1.0.3",
+  "description": "A simplified, promise based msg91.com javascript sdk",
   "main": "./dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,7 +21,7 @@
   "files": [
     "dist"
   ],
-  "author": "Shahid Kamal <me@shahidkamal.ml> (https://shahidkamal.ml/) ",
+  "author": "Shahid Kamal <me@shahidkamal.ml>",
   "license": "Apache-2.0",
   "devDependencies": {
     "@types/debug": "^4.1.5",
