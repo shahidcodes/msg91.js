@@ -1,14 +1,31 @@
 {
   "name": "msg91.js",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "MSG91.com api sdk/wrapper",
+  "main": "./dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "msg91",
+    "msg91.com",
+    "sms api",
+    "otp"
+  ],
+  "homepage": "https://github.com/shahidcodes/msg91.js/blob/master/README.md",
+  "repository": "https://github.com/shahidcodes/msg91.js",
+  "bugs": {
+    "email": "me@shahidkamal.ml",
+    "url": "https://github.com/shahidcodes/msg91.js/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "dist"
+  ],
+  "author": "Shahid Kamal <me@shahidkamal.ml> (https://shahidkamal.ml/) ",
+  "license": "Apache-2.0",
   "devDependencies": {
     "@types/debug": "^4.1.5",
     "@types/node-fetch": "^2.5.7",
