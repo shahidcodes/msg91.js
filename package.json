@@ -1,6 +1,6 @@
 {
   "name": "msg91.js",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A simplified, promise based msg91.com javascript sdk",
   "main": "./dist/index.js",
   "scripts": {
