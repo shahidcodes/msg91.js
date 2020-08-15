@@ -41,6 +41,6 @@ export type SendSMSOptions = {
   route: string;
   sender: string;
   country: string;
-  mobile: string;
+  mobiles: string;
   message: string;
 };
