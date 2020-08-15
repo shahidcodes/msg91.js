@@ -30,10 +30,17 @@ npm install
 const msg91 = require('msg91.js');
 ```
 
+## Documentations
+
+- [APIs](https://github.com/shahidcodes/msg91.js/blob/master/docs.md)
+
 ## Run tests
 
 ```sh
-npm run test
+# test otp
+node tests/index.js
+# to test sms
+node tests/sms.js
 ```
 
 ## Author
