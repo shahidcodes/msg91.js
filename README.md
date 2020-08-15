@@ -3,7 +3,7 @@
   <a href="https://www.npmjs.com/package/msg91.js" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/msg91.js.svg">
   </a>
-  <a href="docs.md" target="_blank">
+  <a href="https://github.com/shahidcodes/msg91.js/blob/master/docs.md" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="#" target="_blank">

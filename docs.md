@@ -53,3 +53,29 @@ const response = await otp.resend({
   error: ''
 }
 ```
+
+### V1 APIs
+
+#### Send SMS
+
+```javascript
+const SMS = new MSG91.SMS({
+  authKey: env.authKey,
+});
+
+await SMS.sendSMS({
+  mobiles: '8899009988',
+  country: '91',
+  message: 'Hi beautiful, your package is delivered with order number 1234.',
+  route: '4',
+  sender: 'MSG91J',
+});
+```
+
+#### Response (success|failure)
+
+```javascript
+{
+  response: 'msg91 text response';
+}
+```

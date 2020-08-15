@@ -32,3 +32,15 @@ export type Response = {
   error?: string;
   message?: string;
 };
+
+export type ResponseV1 = {
+  response: string;
+};
+
+export type SendSMSOptions = {
+  route: string;
+  sender: string;
+  country: string;
+  mobile: string;
+  message: string;
+};
