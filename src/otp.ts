@@ -4,6 +4,7 @@ import {
   SendOTPParams,
   VerifyOTPParams,
   ResendOTPParams,
+  Response,
 } from './types';
 import Constants from './constants';
 import { toQueryParams } from './utils';
